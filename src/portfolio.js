@@ -10,22 +10,22 @@ const settings = {
 //Home Page
 const greeting = {
   title: "Hello 👋.",
-  title2: "Harikrushn",
-  logo_name: "harry.k()",
-  nickname: "harry / picleric",
-  full_name: "Harikrushn Kanani",
+  title2: "Muriithi",
+  logo_name: "Ian.m)",
+  nickname: "Em",
+  full_name: "Muriithi Ian",
   subTitle:
-    "Full Stack Developer, Open Source Enthusiast 🔥. Always learning.",
+    "Full Stack Developer, JavaScript Enthusiast 🔥. Making the worlld better one line of code at a time.",
   resumeLink:
     "https://docs.google.com/document/d/1A_jWRG74Rst427tg1izLa6vRXclS9_9F856jWJPJlDY/edit?usp=sharing",
-  mail: "mailto:hkanani191@gmail.com",
+  mail: "mailto:imuriithiian@gmail.com",
 };
 
 const socialMediaLinks = {
   /* Your Social Media Link */
-  github: "https://github.com/harikanani",
-  linkedin: "https://www.linkedin.com/in/harikrushn-kanani/",
-  gmail: "hkanani191@gmail.com",
+  github: "https://github.com/muriithi-ian",
+  linkedin: "https://www.linkedin.com/in/Muriithi-kanani/",
+  gmail: "imuriithiian@gmail.com",
   gitlab: "https://gitlab.com/harikanani",
   facebook: "https://www.facebook.com/harikrishan.kanani/",
   twitter: "https://twitter.com/Harikrushn9",
@@ -40,9 +40,9 @@ const skills = {
       skills: [
         "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications",
         "⚡ Building responsive website front end using ReactJS",
-        "⚡ Developing mobile applications using Flutter and Android",
-        "⚡ Creating application backend in Node, Express & Flask",
-        "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
+        "⚡ Developing mobile applications using React Native",
+        "⚡ Creating application backend in Node, Express, PHP & Java",
+        "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean",
       ],
       softwareSkills: [
         {
@@ -109,13 +109,13 @@ const skills = {
         //     color: "#DE33A6",
         //   },
         // },
-        {
-          skillName: "Android",
-          fontAwesomeClassname: "simple-icons:android",
-          style: {
-            color: "#3DDC84",
-          },
-        },
+        // {
+        //   skillName: "Android",
+        //   fontAwesomeClassname: "simple-icons:android",
+        //   style: {
+        //     color: "#3DDC84",
+        //   },
+        // },
         {
           skillName: "Java",
           fontAwesomeClassname: "simple-icons:java",
@@ -123,27 +123,6 @@ const skills = {
             color: "#f89820",
           },
         },
-        {
-          skillName: "Flutter",
-          fontAwesomeClassname: "simple-icons:flutter",
-          style: {
-            color: "#02569B",
-          },
-        },
-        {
-          skillName: "Dart",
-          fontAwesomeClassname: "simple-icons:dart",
-          style: {
-            color: "#29B0EE",
-          },
-        },
-        // {
-        //   skillName: "Visual Basic",
-        //   fontAwesomeClassname: "simple-icons:dot-net",
-        //   style: {
-        //     color: "#029FCE",
-        //   },
-        // },
         {
           skillName: "MySQL",
           fontAwesomeClassname: "simple-icons:mysql",
@@ -275,31 +254,17 @@ const skills = {
 const degrees = {
   degrees: [
     {
-      title: "Shantilal Shah Engineering College",
-      subtitle: "Bachelor in Information Technology",
-      logo_path: "ssec.png",
-      alt_name: "SSEC",
-      duration: "2021 - Present",
-      descriptions: [
-        "⚡ I'm currently pursuing my bachelors in Information Technology."
-        // "⚡ I have studied core subjects like Data Structures, DBMS, Networking, Security, etc.",
-        // "⚡ I have also completed various online courses for Backend , Web , Mobile App Development, etc.",
-        // "⚡ I have implemented several projects based on what I've leart under my Computer Engineering course. ",
-      ],
-      website_link: "http://www.ssgec.ac.in/",
-    },
-    {
-      title: "Dr. S. & S. S. Ghandhy College Of Engineering & Technology",
-      subtitle: "Diploma in Information Technology",
-      logo_path: "ssgandhy.png",
-      alt_name: "SSGC",
-      duration: "2018 - 2021",
+      title: "Moi University",
+      subtitle: "Bachelor in Computer Science",
+      logo_path: "moi.png",
+      alt_name: "Moi Uni",
+      duration: "2015-2020",
       descriptions: [
         "⚡ I have studied core subjects like Data Structures, DBMS, Networking, Security, etc.",
         "⚡ I have also completed various online courses for Backend , Web , Mobile App Development, etc.",
         "⚡ I have implemented several projects based on what I've leart under my Computer Engineering course. ",
       ],
-      website_link: "http://www.ssgc.cteguj.in/",
+      website_link: "https://www.mu.ac.ke/",
     },
   ],
 };
@@ -402,14 +367,13 @@ const experience = {
           logo_path: "valora.jpg",
           duration: "Oct 2020 - Mar 2021",
           location: "Office",
-          description:
-          `Train, manage and provide guidance to junior software development staff.
+          description: `Train, manage and provide guidance to junior software development staff.
           Work closely with the Project Manager and Team Leads on change request functions.
           Develops new and maintains existing applications.
           Increased productivity and problem-solving technics by 20%.
           We primarily used PERN and MERN Stack. 80% of my work was doing backend development and the remaining 20% was DevOps-related tasks.
           `,
-            // "I worked on the Dashboard project which helps users track their activities while using Walo Application. I also worked on Ocean Inventory Application and it's Admin panel Backend as well as on Ocean Inventory Admin Front-end using React and also worked on Walo Admin Backend.",
+          // "I worked on the Dashboard project which helps users track their activities while using Walo Application. I also worked on Ocean Inventory Application and it's Admin panel Backend as well as on Ocean Inventory Admin Front-end using React and also worked on Walo Admin Backend.",
           color: "#0071C5",
         },
         {
@@ -419,13 +383,12 @@ const experience = {
           logo_path: "nightowls.jpg",
           duration: "Sep 2020 - Oct 2020",
           location: "Work From Home",
-          description:
-          `Work closely with the Client and Team on change request functions.
+          description: `Work closely with the Client and Team on change request functions.
           We Primarily used LAMP Stack. 40% of my work was doing backend development, 30% of my work was designing database schemas, and 30% of my work was on maintain hosting and user traffics on the website.
           `,
-            // "Created Front end of Yearn Financial Mutual Funds website. also degined simple web application for better user experience, designed DB Schemas as well.",
+          // "Created Front end of Yearn Financial Mutual Funds website. also degined simple web application for better user experience, designed DB Schemas as well.",
           color: "#ee3c26",
-        }
+        },
       ],
     },
     {
@@ -449,7 +412,8 @@ const experience = {
           logo_path: "skillenza.png",
           duration: "Feb 2021 - Present",
           location: "Work from Home",
-          description: "Spread Awareness of new Technologies and new Opportunities to Students and Grow Skillenza Community.",
+          description:
+            "Spread Awareness of new Technologies and new Opportunities to Students and Grow Skillenza Community.",
           color: "#196acf",
         },
         {
@@ -460,7 +424,7 @@ const experience = {
           duration: "Nov 2019 - Present",
           location: "Work from Home",
           description:
-          "Contribute to Open Source Community and Open Source Project.",
+            "Contribute to Open Source Community and Open Source Project.",
           color: "#040f26",
         },
         {
@@ -513,7 +477,7 @@ const projectsHeader = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "harikrushn.jpg",
+    profile_image_path: "Muriithi.jpg",
     description:
       "You can contact me at the places mentioned below. I will try to get back to you as fast as I can. ",
   },
@@ -532,7 +496,8 @@ const projects = {
       id: "0",
       name: "AutomateInstaPyBot",
       url: "https://github.com/harikanani/AutomateInstaPyBot",
-      description: "This is Instagram Bot. This will login to your Instagram account. Follow Users, Unfollow Users, Remove Profile Photo",
+      description:
+        "This is Instagram Bot. This will login to your Instagram account. Follow Users, Unfollow Users, Remove Profile Photo",
       languages: [
         {
           name: "Python",
@@ -628,8 +593,7 @@ const projects = {
       id: "3",
       name: "node_express_crud_api_starter",
       url: "https://github.com/harikanani/node_express_crud_api_starter",
-      description:
-        "Simple NodeJS Express CRUD Operations API starter.",
+      description: "Simple NodeJS Express CRUD Operations API starter.",
       languages: [
         {
           name: "NodeJS",
@@ -687,8 +651,7 @@ const projects = {
       id: "6",
       name: "Automate Attendace",
       url: "https://github.com/harikanani/Node_Python",
-      description:
-        "Automation of Online Attendance using node js and python",
+      description: "Automation of Online Attendance using node js and python",
       languages: [
         {
           name: "JavaScript",
@@ -725,8 +688,7 @@ const projects = {
       id: "8",
       name: "Flask Blog",
       url: "https://github.com/harikanani/flask_blog",
-      description:
-        "A Simple Blog Web Application made using Flask Framework",
+      description: "A Simple Blog Web Application made using Flask Framework",
       languages: [
         {
           name: "Python",
@@ -750,8 +712,7 @@ const projects = {
       id: "9",
       name: "Netflix top series",
       url: "https://github.com/harikanani/netflix-top-series",
-      description:
-        "List of Top Netflix Series which is deployed to vercel.",
+      description: "List of Top Netflix Series which is deployed to vercel.",
       languages: [
         {
           name: "JavaScript",
@@ -775,7 +736,8 @@ const projects = {
       id: "10",
       name: "COVID-19 Tracker",
       url: "https://github.com/harikanani/Covid19TrackerReact",
-      description: "Simple Covid-19 Tracker made using React and deployed to Vercel.",
+      description:
+        "Simple Covid-19 Tracker made using React and deployed to Vercel.",
       languages: [
         {
           name: "JavaScript",
@@ -799,7 +761,8 @@ const projects = {
       id: "11",
       name: "Food Order Static Website",
       url: "https://github.com/harikanani/food-order-website",
-      description: "A simple static website related to food restaurants service. this is reasponsive as well.",
+      description:
+        "A simple static website related to food restaurants service. this is reasponsive as well.",
       languages: [
         {
           name: "HTML5",
