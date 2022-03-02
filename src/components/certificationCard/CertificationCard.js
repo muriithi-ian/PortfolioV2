@@ -22,6 +22,7 @@ function CertificationCard(props) {
             href={certificate.certificate_link}
             target="_blank"
             rel="noopener noreferrer"
+            rel="noopener noreferrer"
           >
             <div className="content-overlay"></div>
             <div

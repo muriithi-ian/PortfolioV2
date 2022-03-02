@@ -11,25 +11,25 @@ const settings = {
 const greeting = {
   title: "Hello 👋.",
   title2: "Muriithi",
-  logo_name: "Ian.m)",
+  logo_name: "Ian.m:)",
   nickname: "Em",
   full_name: "Muriithi Ian",
   subTitle:
     "Full Stack Developer, JavaScript Enthusiast 🔥. Making the worlld better one line of code at a time.",
   resumeLink:
-    "https://docs.google.com/document/d/1A_jWRG74Rst427tg1izLa6vRXclS9_9F856jWJPJlDY/edit?usp=sharing",
+    "https://drive.google.com/file/d/1mZ9Bg5Psa4r7us14y0cK1ugiOQ0K2YrF/view?usp=sharing",
   mail: "mailto:imuriithiian@gmail.com",
 };
 
 const socialMediaLinks = {
   /* Your Social Media Link */
   github: "https://github.com/muriithi-ian",
-  linkedin: "https://www.linkedin.com/in/Muriithi-kanani/",
+  linkedin: "https://www.linkedin.com/in/ian-muriithi-5a2658129/",
   gmail: "imuriithiian@gmail.com",
-  gitlab: "https://gitlab.com/harikanani",
-  facebook: "https://www.facebook.com/harikrishan.kanani/",
-  twitter: "https://twitter.com/Harikrushn9",
-  instagram: "https://www.instagram.com/hari_kanani_/",
+  // gitlab: "https://gitlab.com/harikanani",
+  // facebook: "https://www.facebook.com/harikrishan.kanani/",
+  // twitter: "https://twitter.com/Harikrushn9",
+  // instagram: "https://www.instagram.com/hari_kanani_/",
 };
 
 const skills = {
@@ -477,7 +477,7 @@ const projectsHeader = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "Muriithi.jpg",
+    profile_image_path: "muriithi.jpg",
     description:
       "You can contact me at the places mentioned below. I will try to get back to you as fast as I can. ",
   },

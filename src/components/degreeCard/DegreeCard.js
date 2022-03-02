@@ -114,6 +114,7 @@ function DegreeCard(props) {
               href={degree.website_link}
               target="_blank"
               rel="noopener noreferrer"
+              rel="noopener noreferrer"
               style={{ textDecoration: "none", textAlign: "center" }}
             >
               <p

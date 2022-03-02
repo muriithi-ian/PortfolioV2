@@ -33,6 +33,7 @@ function ExperienceCard(props) {
                 href={experience["company_url"]}
                 target="_blank"
                 rel="noopener noreferrer"
+                rel="noopener noreferrer"
               >
                 {experience["company"]}
               </a>
